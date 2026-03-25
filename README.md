@@ -2,7 +2,8 @@
 [![install with bioconda](https://img.shields.io/badge/install%20with-bioconda-brightgreen.svg)](http://bioconda.github.io/)
 [![CI Tests](https://github.com/genepi/umi-pipeline-nf/actions/workflows/ci-tests.yml/badge.svg)](https://github.com/genepi/umi-pipeline-nf/actions/workflows/ci-tests.yml)
 
-Umi-pipeline-nf
+Umi-pipeline-nf (kEBASO eDITED cOPY)
+
 ======================
 
 **Umi-pipeline-nf** creates highly accurate single-molecule consensus sequences for unique molecular identifier (UMI)-tagged amplicons from nanopore sequencing data.
